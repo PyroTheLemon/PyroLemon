@@ -3,3 +3,12 @@ body {
     background-color: rgb(33, 33, 33);
     text-align: center;
 }
+.textsize1 {
+    font-size: 1.25rem;
+}
+.textsize2 {
+    font-size: 1.50rem;
+}
+.textsize3 {
+    font-size: 1.95rem;
+}
